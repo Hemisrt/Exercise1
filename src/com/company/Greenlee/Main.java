@@ -3,7 +3,7 @@ package com.company.Greenlee;
 public class Main {
 // Trenton Greenlee. 1/14/2020. Exercise 1 (Week 1).
     public static void main(String[] args) {
-    	// Variable Declarations
+    	// Variable Declarations and Assignments
 	String city = "Columbus";
 	int zipCode = 43215;
 	double[] highTemperature = {32, 25, 27, 40, 45};
